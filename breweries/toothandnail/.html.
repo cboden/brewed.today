@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>brewed.today</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato|Lora|Vollkorn|Oswald:400,700">
+  <link rel="stylesheet" href="/assets/bulma.sass">
+  <link rel="stylesheet" href="/assets/brewed.scss">
+
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+
+  <meta name="title" content="brewed.today - ">
+  <meta name="description" content="A blend of our two favourite beers, refermented in Magnums.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="/assets/beer_images/fe2700803cba666f19a0c393d5862d0e.jpg">
+  <meta property="og:url" content="https://brewed.today/breweries/toothandnail/">
+  <meta property="og:title" content="brewed.today - ">
+  <meta property="og:description" content="A blend of our two favourite beers, refermented in Magnums.">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://brewed.today/breweries/toothandnail/">
+  <meta property="twitter:title" content="brewed.today - ">
+  <meta property="twitter:description" content="A blend of our two favourite beers, refermented in Magnums.">
+
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5SM6CDM');</script>
+</head>
+<body class="product-details animated fadeIn">
+  <section class="section header">
+    <div class="container">
+      <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="container">
+          <div class="navbar-brand">
+            <a class="navbar-item" href="/index.html">
+              <img
+                  alt="brewed.today"
+                  src="/assets/images/btd-logo-dark.png"
+                  srcset="/assets/images/btd-logo-dark@2x.png 2x,/assets/images/btd-logo-dark@3x.png 3x"
+              >
+            </a>
+          </div>
+          <div class="navbar-end">
+            <a href="/breweries.html" class="navbar-item">View Brewery List</a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </section>
+
+  <section class="pdp-content">
+    <div>
+      <div class="columns is-4">
+        <article class="column is-offset-1 is-5-desktop is-5-tablet is-12-mobile">
+          <div class="is-horizontal-center pdp-img-container equal-height">
+            <img
+                class="pdp-img"
+                src="/assets/beer_images/fe2700803cba666f19a0c393d5862d0e.jpg"
+                alt="">
+          </div>
+        </article>
+        <article class="pdp-content-right column is-4-desktop is-4-tablet is-12-mobile is-flex is-horizontal-center">
+          <div class=" equal-height is-fullwidth">
+            <div class="card-content is-fullwidth">
+
+              <div class="content">
+                <p class="brewery-name"><a href="https:&#x2F;&#x2F;shop.toothandnailbeer.com&#x2F;" rel="external">Tooth and Nail</a> <span class="separator">•</span> Ottawa</p>
+                <h2 class="beer-title"></h2>
+                  <p class="beer-price">$30.00</p>
+                <p class="beer-description">A blend of our two favourite beers, refermented in Magnums.</p>
+
+                <div class="beer-attributes">
+                  <p class="attribute-item">
+                    <span class="attribute-label">Last Available</span>
+                    New release!
+                  </p>
+                  <p class="attribute-item">
+                    <span class="attribute-label">Shipping Rate</span> $15 per 24 beers
+                  </p>
+                </div>
+
+                <a href="https:&#x2F;&#x2F;shop.toothandnailbeer.com&#x2F;" rel="external" class="btn-primary">Shop Brewery</a>
+                
+              </div>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong><a href="/index.html">brewed.today</a></strong> made with <span class="is-not-wrapped">❤️+ 🍺 </span> by <a href="https://twitter.com/boden_c" rel="external" class="is-not-wrapped">Chris Boden</a>
+      </p>
+    </div>
+  </footer>
+
+    <noscript>
+      <iframe
+          src="https://www.googletagmanager.com/ns.html?id=GTM-5SM6CDM"
+          height="0" width="0" style="display:none;visibility:hidden">
+      </iframe>
+    </noscript>
+
+</body>
+</html>
