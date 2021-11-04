@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>brewed.today</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato|Lora|Vollkorn|Oswald:400,700">
+  <link rel="stylesheet" href="/assets/bulma.sass">
+  <link rel="stylesheet" href="/assets/brewed.scss">
+
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+
+  <meta name="title" content="brewed.today - Winter Warmer [out of stock]">
+  <meta name="description" content="Brewed with oats, dark Munich, wheat, chocolate malts, brown sugar and spices (cardamom, cinamon, peppercorns and orange peel). Aged in pinot noir barrels for a year.&lt;br&gt;&lt;br&gt;HOPS: Fuggle, East Kent Golding.&lt;br&gt;&lt;br&gt;ABV: 10.0% | IBU: 22| SRM: 19 | OG: 1.081">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="/assets/beer_images/291cb86b8196293c879d7c8a677d7d5f.jpg">
+  <meta property="og:url" content="https://brewed.today/breweries/exchangebrewery/winter-warmer-[out-of-stock]">
+  <meta property="og:title" content="brewed.today - Winter Warmer [out of stock]">
+  <meta property="og:description" content="Brewed with oats, dark Munich, wheat, chocolate malts, brown sugar and spices (cardamom, cinamon, peppercorns and orange peel). Aged in pinot noir barrels for a year.&lt;br&gt;&lt;br&gt;HOPS: Fuggle, East Kent Golding.&lt;br&gt;&lt;br&gt;ABV: 10.0% | IBU: 22| SRM: 19 | OG: 1.081">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://brewed.today/breweries/exchangebrewery/winter-warmer-[out-of-stock]">
+  <meta property="twitter:title" content="brewed.today - Winter Warmer [out of stock]">
+  <meta property="twitter:description" content="Brewed with oats, dark Munich, wheat, chocolate malts, brown sugar and spices (cardamom, cinamon, peppercorns and orange peel). Aged in pinot noir barrels for a year.&lt;br&gt;&lt;br&gt;HOPS: Fuggle, East Kent Golding.&lt;br&gt;&lt;br&gt;ABV: 10.0% | IBU: 22| SRM: 19 | OG: 1.081">
+
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5SM6CDM');</script>
+</head>
+<body class="product-details animated fadeIn">
+  <section class="section header">
+    <div class="container">
+      <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="container">
+          <div class="navbar-brand">
+            <a class="navbar-item" href="/index.html">
+              <img
+                  alt="brewed.today"
+                  src="/assets/images/btd-logo-dark.png"
+                  srcset="/assets/images/btd-logo-dark@2x.png 2x,/assets/images/btd-logo-dark@3x.png 3x"
+              >
+            </a>
+          </div>
+          <div class="navbar-end">
+            <a href="/index.html" class="navbar-item">Today's Beers</a>
+            <a href="/breweries.html" class="navbar-item">Brewery List</a>
+            <a href="/articles/2020.html" class="navbar-item">2020 Review</a>
+            <a href="https://twitter.com/BrewedToday" class="navbar-item">Twitter</a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </section>
+
+  <section class="pdp-content">
+    <div>
+      <div class="columns is-4">
+        <article class="column is-offset-1 is-5-desktop is-5-tablet is-12-mobile">
+          <div class="is-horizontal-center pdp-img-container equal-height">
+            <img
+                class="pdp-img"
+                src="/assets/beer_images/291cb86b8196293c879d7c8a677d7d5f.jpg"
+                alt="Winter Warmer [out of stock]">
+          </div>
+        </article>
+        <article class="pdp-content-right column is-4-desktop is-4-tablet is-12-mobile is-flex is-horizontal-center">
+          <div class=" equal-height is-fullwidth">
+            <div class="card-content is-fullwidth">
+
+              <div class="content">
+                <p class="brewery-name"><a href="http:&#x2F;&#x2F;exchangebrewery.com&#x2F;shop&#x2F;" rel="external">The Exchange</a> <span class="separator">•</span> Niagara-on-the-Lake</p>
+                <h2 class="beer-title">Winter Warmer [out of stock]</h2>
+                  <p class="beer-price">$18.00</p>
+                <p class="beer-description">Brewed with oats, dark Munich, wheat, chocolate malts, brown sugar and spices (cardamom, cinamon, peppercorns and orange peel). Aged in pinot noir barrels for a year.<br><br>HOPS: Fuggle, East Kent Golding.<br><br>ABV: 10.0% | IBU: 22| SRM: 19 | OG: 1.081</p>
+
+                <div class="beer-attributes">
+                  <p class="attribute-item">
+                    <span class="attribute-label">Last Available</span>
+                    2021-10-07
+                  </p>
+                  <p class="attribute-item">
+                    <span class="attribute-label">Shipping Rate</span> Starting at $20, free on orders over $100
+                  </p>
+                </div>
+
+                
+                <button class="button btn-primary is-disabled is-fullwidth" disabled>Sold out</button>
+              </div>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong><a href="/index.html">brewed.today</a></strong> made with <span class="is-not-wrapped">❤️+ 🍺 </span> by <a href="https://twitter.com/boden_c" rel="external" class="is-not-wrapped">Chris Boden</a>
+      </p>
+    </div>
+  </footer>
+
+    <noscript>
+      <iframe
+          src="https://www.googletagmanager.com/ns.html?id=GTM-5SM6CDM"
+          height="0" width="0" style="display:none;visibility:hidden">
+      </iframe>
+    </noscript>
+
+</body>
+</html>
