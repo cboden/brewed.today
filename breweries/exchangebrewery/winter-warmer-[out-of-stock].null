@@ -91,8 +91,8 @@
                   </p>
                 </div>
 
-                <a href="http:&#x2F;&#x2F;exchangebrewery.com&#x2F;shop&#x2F;" rel="external" class="btn-primary">Shop Brewery</a>
                 
+                <button class="button btn-primary is-disabled is-fullwidth" disabled>Sold out</button>
               </div>
             </div>
           </div>
