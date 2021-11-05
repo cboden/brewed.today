@@ -87,12 +87,15 @@
                     2021-10-07
                   </p>
                   <p class="attribute-item">
+                    <span class="attribute-label">Sold Out In</span> 1 days
+                  </p>
+                  <p class="attribute-item">
                     <span class="attribute-label">Shipping Rate</span> Starting at $20, free on orders over $100
                   </p>
                 </div>
 
-                <a href="http:&#x2F;&#x2F;exchangebrewery.com&#x2F;shop&#x2F;" rel="external" class="btn-primary">Shop Brewery</a>
                 
+                <button class="button btn-primary is-disabled is-fullwidth" disabled>Sold out</button>
               </div>
             </div>
           </div>
