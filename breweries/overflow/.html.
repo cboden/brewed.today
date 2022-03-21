@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>brewed.today</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato|Lora|Vollkorn|Oswald:400,700">
+  <link rel="stylesheet" href="/assets/bulma.sass">
+  <link rel="stylesheet" href="/assets/brewed.scss">
+
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+
+  <meta name="title" content="brewed.today - ">
+  <meta name="description" content="- $99 keg&lt;br&gt;- $100 deposit&lt;br&gt;- Deliver within 20kms from the brewery $25&lt;br&gt;&lt;br&gt;Terms and Conditions of Keg Rentals:&lt;br&gt;&lt;br&gt;Orders are only for Ottawa Area Residence. &lt;br&gt;All Keg Deposits will be refunded directly to the purchasers Credit Card that was completed online. &lt;br&gt; All kegs rentals must to be returned within 21 days of the original purchase date in order to guarantee a full refund.&lt;br&gt;All Keg Rentals must be physically returned to Overflow Brewing Company at 2477-D Kaladar Ave. Ottawa Ontario, K1V 8B9. &lt;br&gt;Kegs must be in the same condition in which it left the Brewery in order to complete the refund.&lt;br&gt;All Keg Sales are final and unused products will not be refunded.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="/assets/beer_images/d7a06c120b16ddb428538debf190c35a.jpg">
+  <meta property="og:url" content="https://brewed.today/breweries/overflow/">
+  <meta property="og:title" content="brewed.today - ">
+  <meta property="og:description" content="- $99 keg&lt;br&gt;- $100 deposit&lt;br&gt;- Deliver within 20kms from the brewery $25&lt;br&gt;&lt;br&gt;Terms and Conditions of Keg Rentals:&lt;br&gt;&lt;br&gt;Orders are only for Ottawa Area Residence. &lt;br&gt;All Keg Deposits will be refunded directly to the purchasers Credit Card that was completed online. &lt;br&gt; All kegs rentals must to be returned within 21 days of the original purchase date in order to guarantee a full refund.&lt;br&gt;All Keg Rentals must be physically returned to Overflow Brewing Company at 2477-D Kaladar Ave. Ottawa Ontario, K1V 8B9. &lt;br&gt;Kegs must be in the same condition in which it left the Brewery in order to complete the refund.&lt;br&gt;All Keg Sales are final and unused products will not be refunded.">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://brewed.today/breweries/overflow/">
+  <meta property="twitter:title" content="brewed.today - ">
+  <meta property="twitter:description" content="- $99 keg&lt;br&gt;- $100 deposit&lt;br&gt;- Deliver within 20kms from the brewery $25&lt;br&gt;&lt;br&gt;Terms and Conditions of Keg Rentals:&lt;br&gt;&lt;br&gt;Orders are only for Ottawa Area Residence. &lt;br&gt;All Keg Deposits will be refunded directly to the purchasers Credit Card that was completed online. &lt;br&gt; All kegs rentals must to be returned within 21 days of the original purchase date in order to guarantee a full refund.&lt;br&gt;All Keg Rentals must be physically returned to Overflow Brewing Company at 2477-D Kaladar Ave. Ottawa Ontario, K1V 8B9. &lt;br&gt;Kegs must be in the same condition in which it left the Brewery in order to complete the refund.&lt;br&gt;All Keg Sales are final and unused products will not be refunded.">
+
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5SM6CDM');</script>
+</head>
+<body class="product-details animated fadeIn">
+  <section class="section header">
+    <div class="container">
+      <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="container">
+          <div class="navbar-brand">
+            <a class="navbar-item" href="/index.html">
+              <img
+                  alt="brewed.today"
+                  src="/assets/images/btd-logo-dark.png"
+                  srcset="/assets/images/btd-logo-dark@2x.png 2x,/assets/images/btd-logo-dark@3x.png 3x"
+              >
+            </a>
+          </div>
+          <div class="navbar-end">
+            <a href="/index.html" class="navbar-item">Today's Beers</a>
+            <a href="/breweries.html" class="navbar-item">Brewery List</a>
+<!--
+            <a href="/articles/2020.html" class="navbar-item">2020 Review</a>
+-->
+            <a href="https://twitter.com/BrewedToday" class="navbar-item">Twitter</a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </section>
+
+  <section class="pdp-content">
+    <div>
+      <div class="columns is-4">
+        <article class="column is-offset-1 is-5-desktop is-5-tablet is-12-mobile">
+          <div class="is-horizontal-center pdp-img-container equal-height">
+            <img
+                class="pdp-img"
+                src="/assets/beer_images/d7a06c120b16ddb428538debf190c35a.jpg"
+                alt="">
+          </div>
+        </article>
+        <article class="pdp-content-right column is-4-desktop is-4-tablet is-12-mobile is-flex is-horizontal-center">
+          <div class=" equal-height is-fullwidth">
+            <div class="card-content is-fullwidth">
+
+              <div class="content">
+                <p class="brewery-name"><a href="https:&#x2F;&#x2F;overflowbeer.com&#x2F;collections&#x2F;beer" rel="external">Overflow</a> <span class="separator">•</span> Ottawa</p>
+                <h2 class="beer-title"></h2>
+                  <p class="beer-price">$150.00</p>
+                <p class="beer-description">- $99 keg<br>- $100 deposit<br>- Deliver within 20kms from the brewery $25<br><br>Terms and Conditions of Keg Rentals:<br><br>Orders are only for Ottawa Area Residence. <br>All Keg Deposits will be refunded directly to the purchasers Credit Card that was completed online. <br> All kegs rentals must to be returned within 21 days of the original purchase date in order to guarantee a full refund.<br>All Keg Rentals must be physically returned to Overflow Brewing Company at 2477-D Kaladar Ave. Ottawa Ontario, K1V 8B9. <br>Kegs must be in the same condition in which it left the Brewery in order to complete the refund.<br>All Keg Sales are final and unused products will not be refunded.</p>
+
+                <div class="beer-attributes">
+                  <p class="attribute-item">
+                    <span class="attribute-label">Last Available</span>
+                    New release!
+                  </p>
+                  <p class="attribute-item">
+                    <span class="attribute-label">Shipping Rate</span> $18 flat rate or free on orders with 24+ beers
+                  </p>
+                </div>
+
+                <a href="https:&#x2F;&#x2F;overflowbeer.com&#x2F;collections&#x2F;beer" rel="external" class="btn-primary">Shop Brewery</a>
+                
+              </div>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong><a href="/index.html">brewed.today</a></strong> made with <span class="is-not-wrapped">❤️+ 🍺 </span> by <a href="https://twitter.com/boden_c" rel="external" class="is-not-wrapped">Chris Boden</a>
+      </p>
+    </div>
+  </footer>
+
+    <noscript>
+      <iframe
+          src="https://www.googletagmanager.com/ns.html?id=GTM-5SM6CDM"
+          height="0" width="0" style="display:none;visibility:hidden">
+      </iframe>
+    </noscript>
+
+</body>
+</html>
